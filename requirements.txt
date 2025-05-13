@@ -1,0 +1,4 @@
+Flask==2.3.3
+nltk==3.8.1
+scikit-fuzzy==0.4.2
+numpy==1.26.4
