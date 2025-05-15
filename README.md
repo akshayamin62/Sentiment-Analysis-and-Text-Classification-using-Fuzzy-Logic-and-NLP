@@ -99,8 +99,8 @@ The system handles special language constructs:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Sentiment-Analysis-and-Text-Classification-using-Fuzzy-Logic-and-NLP.git
-   cd Sentiment-Analysis-and-Text-Classification-using-Fuzzy-Logic-and-NLP-main
+   git clone https://github.com/akshayamin62/Sentiment-Analysis-and-Text-Classification-using-Fuzzy-Logic-and-NLP
+   cd Sentiment-Analysis-and-Text-Classification-using-Fuzzy-Logic-and-NLP
    ```
 
 2. Create a virtual environment and activate it:
